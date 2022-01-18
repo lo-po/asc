@@ -1,2 +1,3 @@
 # start
-First project
+Bonjour
+Ceci est notre premier projet !
